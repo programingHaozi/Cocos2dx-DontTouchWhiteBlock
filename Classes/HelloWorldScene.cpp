@@ -56,7 +56,7 @@ bool HelloWorld::init()
                     }
                 }else{
                     b ->runAction(Blink::create(2.0, 4));
-                    
+//                    这是测试commit
                     MessageBox("GameOver", "失败");
                 }
                 break;
