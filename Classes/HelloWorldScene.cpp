@@ -56,7 +56,6 @@ bool HelloWorld::init()
                     }
                 }else{
                     b ->runAction(Blink::create(2.0, 4));
-                    
                     MessageBox("GameOver", "失败");
                 }
                 break;
