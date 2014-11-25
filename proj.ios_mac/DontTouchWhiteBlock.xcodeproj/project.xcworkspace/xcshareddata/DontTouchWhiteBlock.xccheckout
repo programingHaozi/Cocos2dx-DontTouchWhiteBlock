@@ -12,20 +12,24 @@
 	<dict>
 		<key>CDA3BBDDED11DEF45AFA1F5B51F70D3DBE42DA94</key>
 		<string>https://github.com/programingHaozi/Cocos2dx-DontTouchWhiteBlock.git</string>
+		<key>DED0B1AAE5750F2C36AB62B98BB4CBFDC6330B52</key>
+		<string>https://github.com/programingHaozi/Cocos2dx-DontTouchWhiteBlock.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DontTouchWhiteBlock/proj.ios_mac/DontTouchWhiteBlock.xcodeproj</string>
+	<string>proj.ios_mac/DontTouchWhiteBlock.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>CDA3BBDDED11DEF45AFA1F5B51F70D3DBE42DA94</key>
 		<string>../../../..</string>
+		<key>DED0B1AAE5750F2C36AB62B98BB4CBFDC6330B52</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/programingHaozi/Cocos2dx-DontTouchWhiteBlock.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CDA3BBDDED11DEF45AFA1F5B51F70D3DBE42DA94</string>
+	<string>DED0B1AAE5750F2C36AB62B98BB4CBFDC6330B52</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -33,6 +37,14 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>CDA3BBDDED11DEF45AFA1F5B51F70D3DBE42DA94</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DED0B1AAE5750F2C36AB62B98BB4CBFDC6330B52</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Cocos2dx-DontTouchWhiteBlock</string>
 		</dict>
